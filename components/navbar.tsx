@@ -8,7 +8,9 @@ export const Navbar = () => {
           Meu Ecommerce
         </Link>
         <div className="hidden md:flex space-x-6">
-          <Link href="/">Inicio</Link>
+          <Link href="/" className="hover:text-blue-600">
+            Inicio
+          </Link>
           <Link href="/products" className="hover:text-blue-600">
             Produtos
           </Link>
