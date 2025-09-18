@@ -40,7 +40,7 @@ Este é um ecommerce fullstack que oferece uma experiência de compra completa, 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [url-do-repositorio]
+   git clone [https://github.com/WalyssonCavalcante/ecommerce-nextjs-fullstack-app.git]
    cd ecommerce-nextjs-fullstack-app
    ```
 
